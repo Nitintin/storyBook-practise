@@ -1,0 +1,27 @@
+.input {
+    width: 360px;
+    height: 60px;
+    border-color: black;
+    border-radius: 5px;
+    border: none;
+}
+
+.small {
+    width: 360px;
+    height: 20px;
+}
+
+.large {
+    width: 360px;
+    height: 120px;
+}
+
+.red {
+    border: 2px solid red;
+}
+.green {
+    border: 2px solid green;
+}
+.blue {
+    border: 2px solid blue;
+}
